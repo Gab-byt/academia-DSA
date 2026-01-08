@@ -50,6 +50,7 @@ HTML/CSS/JS no frontend
 MVC / arquitetura em camadas
 ```
 ````
+
 **🛠 Rodando o Projeto**
 ```
 🔹 Com Docker (recomendado)
@@ -119,5 +120,4 @@ Abra um pull request descrevendo sua mudança
 
 **📝 Licença**
 
-Este projeto está sob a licença MIT (ou outra que você escolher).
-Adicione o arquivo LICENSE se ainda não tiver.
+Este projeto está sob a licença MIT
